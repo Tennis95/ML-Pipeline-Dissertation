@@ -3,7 +3,6 @@
 **Author:** Tennisraja Vijayaram  
 **Programme:** MSc Artificial Intelligence — Aston University  
 **Supervisor:** Dr Andrew McMullan  
-**Submission:** September 2026
 
 ---
 
