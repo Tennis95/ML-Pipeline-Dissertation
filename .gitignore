@@ -1,0 +1,23 @@
+# Large MATLAB workspace files
+*.mat
+noreactionpartialstate.mat
+matlab.mat
+
+# Derived / intermediate CSV outputs
+*_filt_clean.csv
+*_full_clean.csv
+*_stat_clean.csv
+uniform_fixed.csv
+uniform_filt_clean.csv
+uniform_full_clean.csv
+isothermal_stat_clean.csv
+stat_clean_triplets.csv
+manual_ml_clean_triplets.csv
+clean_triplets.csv
+to_label.csv
+
+# macOS
+.DS_Store
+
+# HTML gallery (local tool, not part of repo)
+figure_gallery.html
