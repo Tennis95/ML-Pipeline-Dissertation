@@ -1,4 +1,4 @@
-# ML Pipeline for Topographical Feature Extraction from Turbulent Shear Flow LES Data
+# Using Machine Learning to Extract Topographical Features from Turbulent Shear Flows
 
 **Author:** Tennisraja Vijayaram  
 **Programme:** MSc Artificial Intelligence — Aston University  
